@@ -42,3 +42,12 @@ def enviar_email(
         print("Email enviado com sucesso!") 
     except Exception as e:
         print(f"Erro ao enviar email: {e}")
+
+enn_mails.enviar_email(
+                remetente= #email do envio,
+                senha= #espaço pra senha de autenticação de dois fatores,
+                destinatario= #destino do email,
+                assunto= #assunto da mensagem,
+                corpo= #escreva alguma coisa para o corpo do email,
+                anexo_path=None #deixa mesmo assim como none
+            )
