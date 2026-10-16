@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Thorservian
-- 👀 I’m interested in play videogames
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Ther Strom network
-- 📫 How to reach me Trent ...
+Pick one and be happy.
